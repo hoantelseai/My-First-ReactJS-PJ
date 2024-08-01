@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/My-First-ReactJS-PJ/static/css/main.f73bc8a7.css",
+    "main.js": "/My-First-ReactJS-PJ/static/js/main.a0d77f05.js",
+    "index.html": "/My-First-ReactJS-PJ/index.html",
+    "static/media/search.svg": "/My-First-ReactJS-PJ/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.f73bc8a7.css.map": "/My-First-ReactJS-PJ/static/css/main.f73bc8a7.css.map",
+    "main.a0d77f05.js.map": "/My-First-ReactJS-PJ/static/js/main.a0d77f05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f73bc8a7.css",
+    "static/js/main.a0d77f05.js"
+  ]
+}
